@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accura Liveness</string>
+    <string name="score_formate">%.2f %%</string>
+    <string name="score_msg">Liveness Score : <font color='#01C6DB'>%.2f %%</font></string>
+</resources>
